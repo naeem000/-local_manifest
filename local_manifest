@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
  
-   <remote name="naeem000"
-           fetch="https://github.com/naeem000" />
+  <remote name="naeem000"
+          fetch="https://github.com/naeem000" />
 
  <!-- Trees -->
  <project path="device/xiaomi/jasmine_sprout" name="naeem000/device_xiaomi_jasmine_sprout" remote="github" revision="Evo" />
