@@ -9,7 +9,7 @@
  <project path="vendor/xiaomi/wayne-common" name="naeem000/vendor_xiaomi_wayne-common" remote="github" revision="11-4.19" />
  <project path="kernel/xiaomi/sdm660" name="OdSazib/kernel_xiaomi_sdm660" remote="github" revision="4.19-newCam" />
 
- <!-- remove existing hals and add new msm8996-r hals -->
+ <!-- remove existing hals and add new sdm660 hals -->
  <remove-project name="hardware/qcom-caf/sdm660/media" />
  <remove-project name="hardware/qcom-caf/sdm660/audio" />
  <remove-project name="hardware/qcom-caf/sdm660/display" />
