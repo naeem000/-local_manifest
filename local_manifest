@@ -3,6 +3,10 @@
  
   <remote name="naeem000"
           fetch="https://github.com/naeem000" />
+ 
+ 
+  <remote name="OdSazib"
+          fetch="https://github.com/OdSazib" />
 
  <!-- Trees -->
  <project path="device/xiaomi/jasmine_sprout" name="naeem000/device_xiaomi_jasmine_sprout" remote="github" revision="Evo" />
